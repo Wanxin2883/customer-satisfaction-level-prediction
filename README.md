@@ -36,8 +36,8 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow imbalanced-l
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Wanxin2883/customer-satisfaction-prediction.git
-    cd customer-satisfaction-prediction
+    git clone https://github.com/Wanxin2883/customer-satisfaction-level-prediction.git
+    cd customer-satisfaction-level-prediction
     ```
 
 2. **Prepare the dataset:**  
