@@ -68,8 +68,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow imbalanced-l
 
 - `main.py`: The main Python script that runs the entire process including data preprocessing, model training, and evaluation.
 - `README.md`: This file containing the instructions to run the project.
-- `data/`: Folder to store the dataset files (e.g., `customer_data.csv`).
-- `output/`: Folder where results, plots, and models will be saved.
+- `data/`: Folder to store the dataset files (e.g., `customer_satisfaction_level.csv`).
 
 ## Results and Discussion
 
