@@ -29,6 +29,7 @@ Install these dependencies by running the following command:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn tensorflow imbalanced-learn
+```
 
 ## Steps to Run the Code
 
