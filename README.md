@@ -54,7 +54,7 @@ The goal of this project is to predict whether a customer is satisfied or unsati
 
 ## Results and Discussion
 
-The project compares the performance of different machine learning models, both with and without hyperparameter tuning. The Random Forest (RF) model is found to be the most accurate, followed by KNN, with Naive Bayes and Neural Networks performing slightly worse.
+The project compares the performance of different machine learning models, both with and without hyperparameter tuning. The Random Forest (RF) model is found to be the most accurate, followed by KNN, with Naive Bayes and Neural Networks performing slightly worse. Refer to the `report.pdf` for a comprehensive analysis.
 
 ## Author
 Cheah Wan Xin
