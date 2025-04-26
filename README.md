@@ -13,24 +13,6 @@ The goal of this project is to predict whether a customer is satisfied or unsati
 - Hyperparameter Tuning for Optimal Model Performance
 - Model Evaluation and Comparison
 
-## Requirements
-
-Ensure you have Python installed. The project uses the following Python libraries:
-
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scikit-learn
-- tensorflow
-- imbalanced-learn
-
-Install these dependencies by running the following command:
-
-```bash
-pip install pandas numpy matplotlib seaborn scikit-learn tensorflow imbalanced-learn
-```
-
 ## Steps to Run the Code
 
 1. **Clone the repository:**
@@ -73,4 +55,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn tensorflow imbalanced-l
 ## Results and Discussion
 
 The project compares the performance of different machine learning models, both with and without hyperparameter tuning. The Random Forest (RF) model is found to be the most accurate, followed by KNN, with Naive Bayes and Neural Networks performing slightly worse.
+
+## Author
+Cheah Wan Xin
 
